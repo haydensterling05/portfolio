@@ -1,5 +1,5 @@
 title: Hayden Sterling
-logo: https://github.com/haydensterling05/portfolio/blob/c0b10eab2c5455407b024ac260e84f8f59b42320/assets/img/headshot.png
+logo: /assets/img/headshot.png
 description: Data Science student at Northwestern University
 show_downloads: true
 theme: jekyll-theme-minimal
