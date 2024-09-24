@@ -4,13 +4,16 @@
 Data Science courses:
 - Data Science with Python (STAT 303)
 - Programming for Data Science (STAT 201)
+
 Statistics courses:
 - Statistical Theories and Methods (STAT 320)
 - Statistics for Data Science (STAT 202)
+
 Mathematics courses:
 - Multivariable Calculus (MATH 230-1)
 - Series and Multiple Integrals (STAT 228)
 - Linear Algebra (MATH 240)
+
 
 #### Project 1: Species Classification Model
 This project was completed during my time working at TaroAI as a Data Science Intern. 
