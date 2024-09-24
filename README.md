@@ -1,5 +1,10 @@
 ## Data Science Portfolio
 
+#### Proficient Coding Languages:
+- Python
+- R
+- SQL
+
 #### Relevant Coursework at Northwestern:
 Data Science courses:
 - Data Science with Python (STAT 303)
