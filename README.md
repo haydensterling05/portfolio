@@ -36,7 +36,7 @@ Skills used:
 #### Project 2: Survey Data Analysis
 I completed this project as a final exam for one of my DS classes at Northwestern. 
 
-I worked with a large dataset of over 1000 students and extracted useful insights relating to student social behavior. I worked with two other peers and collaborated using R Studio. 
+I worked with a large dataset of over 1000 students and extracted useful insights relating to student social behavior. Using various statistical methods and analysesl I validated my results and created visualizations to display my work. I worked with two other peers and collaborated using R. 
 
 [Survey_Data_Analysis](survey_data_analysis_project/survey_data_analysis.html)
 
