@@ -30,6 +30,7 @@ Skills used:
 - Model training/testing
 - Model evaluation
 - Multi-class classification
+- Feature Extraction (DINOv2)
 - Large language models
 - Various APIs
 
