@@ -46,3 +46,4 @@ Skills used:
 - Data visualization
 - Regression analysis
 - Hypothesis testing
+- Exploratory data analysis (EDA)
