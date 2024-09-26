@@ -33,6 +33,7 @@ Skills used:
 - Feature Extraction (DINOv2)
 - Large language models
 - Various APIs
+- Excel
 
 #### Project 2: Survey Data Analysis
 I completed this project as a final exam for one of my DS classes at Northwestern. 
