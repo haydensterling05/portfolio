@@ -34,8 +34,6 @@ Skills used:
 
 [PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf)
 
-[Project Code](Chicago_Programs_Equity_Project/Chicago_Project_Code.html)
-
 
 #### Project 2: Species Classification Model
 This project was completed during my time working at TaroAI as a Data Science Intern. 
