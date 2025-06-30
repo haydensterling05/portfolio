@@ -34,7 +34,7 @@ Skills used:
 
 [PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf)
 
-[Project Code](Chicago_Programs_Equity_Project/Team_3_Project_Code.html)
+[Project Code](Chicago_Programs_Equity_Project/Chicago_Project_Code.html)
 
 
 #### Project 2: Species Classification Model
