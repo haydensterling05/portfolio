@@ -32,8 +32,9 @@ Skills used:
 - Geospatial Plotting (geopandas, folium)
 - Data Visualization (matplotlib, seaborn)
 
-[PDF Report][Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf]
-[Project Code][Chicago_Programs_Equity_Project/Team_3_Project_Code.html]
+[PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf)
+
+[Project Code](Chicago_Programs_Equity_Project/Team_3_Project_Code.html)
 
 
 #### Project 2: Species Classification Model
