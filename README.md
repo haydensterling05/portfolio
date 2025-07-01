@@ -21,6 +21,7 @@ Mathematics courses:
 - Linear Algebra (MATH 240)
 
 #### Project 1: Chicago Youth Programs Data Analysis 
+##### Nov 2024 - Dec 2024
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
 
 We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 rows and 20+ features. The analysis includes statistical testing, geo-plotting, and data visualization to support our findings. 
