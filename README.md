@@ -7,24 +7,30 @@
 
 #### Relevant Coursework at Northwestern:
 Data Science courses:
-- Data Science with Python (STAT 303-1,-2,-3)
-- Information Management (STAT 305)
-- Programming for Data Science (STAT 201)
+- STAT 303-1,-2,-3: Data Science with Python 
+- STAT 302: Data Visualization (planned)
+- STAT 305: Information Management 
+- STAT 201: Programming for Data Science 
 
 Statistics courses:
-- Statistical Theories and Methods (STAT 320-1,-2,-3)
-- Statistics for Data Science (STAT 202)
+- STAT 320-1,-2,-3: Statistical Theories and Methods
+- STAT 350: Regression Analysis (planned)
+- STAT 348: Multivariate Analysis (planned)
+- STAT 202: Statistics for Data Science
 
 Mathematics courses:
-- Multivariable Calculus (MATH 230-1)
-- Series and Multiple Integrals (STAT 228)
-- Linear Algebra (MATH 240)
+- MATH 230: Multivariable Calculus (Calc III) 
+- STAT 228: Series and Multiple Integrals 
+- MATH 240: Linear Algebra 
+
 
 #### Project 1: Chicago Youth Programs Data Analysis 
-##### Nov 2024 - Dec 2024
+##### Nov 2024 - Dec 2024 
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
 
-We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 rows and 20+ features. The analysis includes statistical testing, geo-plotting, and data visualization to support our findings. 
+We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 20+ features. The analysis includes statistical testing, geo-plotting, and data visualization to support our findings. 
+
+[PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf) 
 
 Skills used: 
 - Python (pandas, numpy) 
@@ -33,9 +39,7 @@ Skills used:
 - Geospatial Plotting (geopandas, folium)
 - Data Visualization (matplotlib, seaborn)
 
-[PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf)
-
-
+  
 #### Project 2: Species Classification Model
 ##### Jun 2024 - Sept 2024
 This project was completed during my time working at TaroAI as a Data Science Intern. 
@@ -51,6 +55,7 @@ Skills used:
 - Feature Extraction (DINOv2)
 - Large language models
 - APIs
+
 
 #### Project 3: Survey Data Analysis
 ##### Nov 2023 - Dec 2023
@@ -68,3 +73,8 @@ Skills used:
 - Regression analysis
 - Hypothesis testing
 - Exploratory data analysis (EDA)
+
+
+
+
+
