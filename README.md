@@ -3,7 +3,9 @@
 
 
 ## Education
-B.A., Statistics & Data Science Double Major | Northwestern University (_Class of 2027_) | 3.94/4.00
+B.A., Statistics & Data Science Double Major
+Northwestern University (_Class of 2027_) 
+3.94/4.00
 
 ### Relevant Coursework:
 Data Science courses:
