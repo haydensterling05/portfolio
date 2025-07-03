@@ -45,6 +45,7 @@ I completed this project with 3 of my peers during a Data Science Course at Nort
 We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 20+ features. The analysis includes statistical testing, geo-plotting, and data visualization to support our findings. 
 
 [PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf) 
+
 [Python Code](Chicago_Programs_Equity_Project/Team_3_Project_Code.html)
 
 Tools/Skills: 
