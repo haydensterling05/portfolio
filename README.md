@@ -1,9 +1,8 @@
 # Data Science & Statistics Student
-#### Technical Skills: Python, SQL, R
-
+#### Languages: Python, SQL, R
 
 ## Education
-B.A., Statistics & Data Science Double Major
+B.A., Statistics & Data Science (_Double Major_)
 
 Northwestern University (_Class of 2027_) 
 
@@ -11,16 +10,16 @@ Northwestern University (_Class of 2027_)
 
 ### Relevant Coursework:
 Data Science courses:
-- STAT 303-1,-2,-3: Data Science with Python 
-- STAT 302: Data Visualization (planned)
-- STAT 305: Information Management 
-- STAT 201: Programming for Data Science 
+- STAT 303-1,-2,-3: Data Science with Python - basic data analysis tools and ML algorithms such as regressions, tree-based methods, gradient boosted trees, stacking
+- STAT 305: Information Management - SQL and Python based database management, relational databases
+- STAT 201: Programming for Data Science - coding in Python and R, basic data structures and algorithms
+- STAT 302: Data Visualization (planned) 
 
 Statistics courses:
-- STAT 320-1,-2,-3: Statistical Theories and Methods
-- STAT 350: Regression Analysis (planned)
+- STAT 320-1,-2,-3: Statistical Theories and Methods - probability, distributions, inference, likelihood ratio tests, regression, analysis of variance (ANOVA)
+- STAT 202: Statistics for Data Science - statistical inference and basic data visualization in R
+- STAT 350: Regression Analysis (planned) 
 - STAT 348: Multivariate Analysis (planned)
-- STAT 202: Statistics for Data Science
 
 Mathematics courses:
 - MATH 230: Multivariable Calculus (Calc III) 
@@ -29,11 +28,11 @@ Mathematics courses:
 
 
 ## Work Experience
-**Business Analyst Intern | Northrop Grumman | _June 2025 - Present_**
+**Northrop Grumman | Business Analyst Intern | _June 2025 - Present_**
 - Analyzed cost data across 3 high-value government contracts, identifying variances and uncovering drivers of budget overruns while forecasting final project expenses using historical trends, and supporting financial stability and commitment to budget targets through improved cost control.
 - Conducted thorough audits of multiple government programs to ensure accurate cost structures and adherence to budget allocations, utilizing advanced MS Excel (queries, pivot tables, macros) and SAP skills to effectively support data-driven decision-making over the course of 3 months.
 
-**Data Science Intern | Taro AI  | _June 2024 - September 2024_**
+**Taro AI | Data Science Intern | _June 2024 - September 2024_**
 - Collaborated with startup founders to design a machine learning pipeline for tree species prediction across 17 classes, aligning model structure and evaluation strategies with product development goals to accelerate development of AI-driven computer vision tree inventory application.
 - Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
