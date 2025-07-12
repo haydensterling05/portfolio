@@ -36,6 +36,8 @@ Mathematics courses:
 - Collaborated with startup founders to design a machine learning pipeline for tree species prediction across 17 classes, aligning model structure and evaluation strategies with product development goals to accelerate development of AI-driven computer vision tree inventory application.
 - Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
+## Certifications
+**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025 - Present, (in progress)_
 
 ## Projects
 
