@@ -30,23 +30,46 @@ Mathematics courses:
 
 ## Work Experience
 **Business Analyst Intern | Northrop Grumman | _June 2025 - Present_**
+- Analyzed cost data across 3 high-value government contracts, identifying variances and uncovering drivers of budget overruns while forecasting final project expenses using historical trends, and supporting financial stability and commitment to budget targets through improved cost control.
+- Conducted thorough audits of multiple government programs to ensure accurate cost structures and adherence to budget allocations, utilizing advanced MS Excel (queries, pivot tables, macros) and SAP skills to effectively support data-driven decision-making over the course of 3 months.
 
 **Data Science Intern | Taro AI  | _June 2024 - September 2024_**
-- Spearheaded the development and implementation of a classification machine learning model, overseeing dataset creation, pipeline design, and performance analysis while diligently compiling and delivering actionable insights to improve company products.
-- Evaluated LLMs such as ChatGPT and Gemini, providing strategic insights on their potential to enhance computer vision workflow.
-- Presented solutions to leadership, demonstrating technical findings and their applications to the company’s products and operations.
+- Collaborated with startup founders to design a machine learning pipeline for tree species prediction across 17 classes, aligning model structure and evaluation strategies with product development goals to accelerate development of AI-driven computer vision tree inventory application.
+- Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
 
 ## Projects
+
+### Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
+This project stems from my personal interest in financial markets and quantitative trading. A common buy/sell signal in financial markets is the dual-moving average crossover. In this project, I designed a constrained optimization algorithm in Python using walk-forward backtesting and Optuna-based hyperparameter optimization to efficiently tune the values of the short-term and long-term MAs $(w_{short}, w_{long})$ while avoiding data leakage and overfitting. 
+
+I implemented a fully-customizable, user-friendly Streamlit dashboard to run the algorithm and visualize the results of the optimizer in a centralized online website. The tool supports both simple and exponentially weighted moving averages, allows for short-selling, and visualizes cumulative returns, trading signals, and window-specific performance metrics. It also introduces custom performance diagnostics, such as a Signal vs. Return Confusion Matrix, to assess the strategy’s ability to correctly predict market direction under both long and short positions.
+
+The algorithm has varying results on different securities. So far, I have achieved a **96% increase in Sharpe ratio** (risk-adjusted return) and an **80% increase in cumulative return** above the baseline buy-and-hold strategy on AAPL during the period of 01/01/2020 to the present day. However, its performance is much less optimistic on many other securities. 
+
+![Adaptive MA Strategy Dashboard Screenshot](assets/img/2MA_Screenshot.png)
+
+This project is **in progress**, and I am currently working on generalizing the algorithm to several securities by continuing to refine its logic and running hundreds of trials to analyze its performance on different securities. I plan on identifying which factors associated with a security contribute to the algorithm's success or lack thereof in uncovering its signal and generating profit. I also plan on implementing other hyperparameters (e.g. the type of moving average, shorting logic, etc.) into the optimization to further improve performance. 
+
+Tools/Skills: 
+- Python (pandas, numpy, plotly)
+- Optuna
+- Streamlit
+- Financial data
+- Time series analysis
+
 ### Geospatial Data Analysis of Equity in Chicago Youth Programs
 #### Nov 2024 - Dec 2024 
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
 
-We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 40 features. The analysis includes statistical testing, geo-plotting, and data visualization to support our findings. 
+We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 40 features. The analysis includes statistical testing, geospatial data visualization, and exploratory data analysis (EDA) to support our findings. 
 
 [PDF Report](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf) 
 
 [Python Code](Chicago_Programs_Equity_Project/Team_3_Project_Code.html)
+
+![Geospatial Analysis Image 1](Chicago_Programs_Equity_Project/Geospatial_Analysis_img1.png)
+![Geospatial Analysis Image 2](Chicago_Programs_Equity_Project/Geospatial_Analysis_img2.png)
 
 Tools/Skills: 
 - Python (pandas, numpy) 
@@ -73,7 +96,7 @@ Tools/Skills:
 - APIs
 
 
-#### Project 3: Survey Data Analysis
+#### Survey Data Analysis
 ##### Nov 2023 - Dec 2023
 I completed this project as a final exam for one of my DS classes at Northwestern. 
 
