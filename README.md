@@ -1,4 +1,4 @@
-# Data Science & Statistics Student
+# Hayden Sterling
 #### Languages: Python, SQL, R
 
 ## Education
