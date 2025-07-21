@@ -37,7 +37,8 @@ Mathematics courses:
 - Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
 ## Certifications
-**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025 - Present, (in progress)_
+**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_
+**DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_
 
 ## Projects
 
