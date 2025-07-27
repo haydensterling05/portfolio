@@ -62,6 +62,12 @@ Tools/Skills:
 - Financial data
 - Time series analysis
 
+### STAT 303 Final Project
+
+ML binary classification project predicting whether a product delivery is on time and completed. Built a stacking  model combining Logistic Regression, KNN, Random Forest, and XGBoost classifiers using a Logistic Regression metamodel to obtain 82% test accuracy. I experimented with different hyperparameter tuning frameworks such as Grid Searches, Random Searches, Bayesian searches, and Optuna. I built a unified pipeline using sklearn to write efficient and clear code that extracts and transforms the data for each base learner, and passes it through the model to obtain results. 
+
+![Product Delivery Prediction](STAT303_Final_Project/Final_Report_Template.html)
+
 ### Geospatial Data Analysis of Equity in Chicago Youth Programs
 #### Nov 2024 - Dec 2024 
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
