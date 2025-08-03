@@ -1,9 +1,7 @@
-<img src="assets/img/Headshot.JPG" alt="Hayden_Sterling_headshot" width="263" height="340">
-
 #### Languages: Python, SQL, R
 #### BI Tools: Tableau, Excel
 
-## Education
+# Education
 B.A., Statistics & Data Science (_Double Major_)
 
 Northwestern University (_Class of 2027_) 
@@ -29,7 +27,7 @@ Mathematics courses:
 - MATH 240: Linear Algebra
 
 
-## Work Experience
+# Work Experience
 
 **Northrop Grumman | Business Analyst Intern | _June 2025 - Present_**
 - Analyzed cost data across 3 high-value government contracts, identifying variances and uncovering drivers of budget overruns while forecasting final project expenses using historical trends, and supporting financial stability and commitment to budget targets through improved cost control.
@@ -39,15 +37,15 @@ Mathematics courses:
 - Collaborated with startup founders to design a machine learning pipeline for tree species prediction across 17 classes, aligning model structure and evaluation strategies with product development goals to accelerate development of AI-driven computer vision tree inventory application.
 - Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
-## Certifications
+# Certifications
 
 **DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_
 
 **DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_
 
-## Projects
+# Projects
 
-### Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
+## Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
 #### June 2025 - Present
 This project stems from my personal interest in financial markets and quantitative trading. A common buy/sell signal in financial markets is the dual-moving average crossover. In this project, I designed a constrained optimization algorithm in Python using walk-forward backtesting and Optuna-based hyperparameter optimization to efficiently tune the values of the short-term and long-term MAs $(w_{short}, w_{long})$ while avoiding data leakage and overfitting. 
 
@@ -68,7 +66,7 @@ Tools/Skills:
 
 <div class="vertical-line"></div>
 
-### Product Delivery Prediction: STAT 303-3 Final Project
+## Product Delivery Prediction: STAT 303-3 Final Project
 #### March - June 2025
 
 ML binary classification project predicting whether a product delivery is on time and completed. Built a stacking model combining Logistic Regression, KNN, Random Forest, and XGBoost classifiers using a Logistic Regression metamodel to obtain 82.27% test accuracy. I performed exploratory data analysis and conducted feature engineering to improve performance by visualizing approximate-log-odds against each predictor (example shown below). 
@@ -87,7 +85,7 @@ Tools/Skills:
 
 <div class="vertical-line"></div>
 
-### Geospatial Equity Data Analysis in Chicago Youth Programs
+## Geospatial Equity Data Analysis in Chicago Youth Programs
 #### November - December 2024 
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
 
@@ -109,7 +107,7 @@ Tools/Skills:
 
 <div class="vertical-line"></div>
 
-### Species Classification Model
+## Species Classification Model
 #### June 2024 - September 2024
 This project was completed during my time working at TaroAI as a Data Science Intern. 
 
@@ -129,7 +127,7 @@ Tools/Skills:
 <div class="vertical-line"></div>
 
 
-### Survey Data Analysis
+## Survey Data Analysis
 #### November 2023 - December 2023
 I completed this project as a final exam for one of my DS classes at Northwestern. 
 
