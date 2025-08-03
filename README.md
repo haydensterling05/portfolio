@@ -63,6 +63,7 @@ Tools/Skills:
 - Time series analysis
 
 ### Product Delivery Prediction: STAT 303-3 Final Project
+#### March - June 2025
 
 ML binary classification project predicting whether a product delivery is on time and completed. Built a stacking model combining Logistic Regression, KNN, Random Forest, and XGBoost classifiers using a Logistic Regression metamodel to obtain 82% test accuracy. I experimented with different hyperparameter tuning frameworks such as Grid Searches, Random Searches, Bayesian searches, and Optuna for each of the base learners and the final metamodel. I built a unified pipeline using sklearn to write efficient and clear code that extracts and transforms the data for each base learner, and passes it through the model to obtain results. 
 
@@ -74,7 +75,7 @@ Tools/Skills:
 - Stacking ML models
 
 ### Geospatial Equity Data Analysis in Chicago Youth Programs
-#### Nov 2024 - Dec 2024 
+#### November - December 2024 
 I completed this project with 3 of my peers during a Data Science Course at Northwestern, STAT 303-1: Data Science I with Python. 
 
 We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 40 features. The analysis includes statistical testing, geospatial data visualization, and exploratory data analysis (EDA) to support our findings. 
@@ -94,7 +95,7 @@ Tools/Skills:
 - Data visualization (matplotlib, seaborn)
   
 ### Species Classification Model
-#### Jun 2024 - Sept 2024
+#### June 2024 - September 2024
 This project was completed during my time working at TaroAI as a Data Science Intern. 
 
 My goal for this project was to develop a multiclass classification machine learning model in Python to successfully predict the species of trees based on ground-level images. I used various approaches to solve this computer vision predicions problem and worked across various different datasets provided to me by the company. I achieved ~85% accuracy in the most successful approach, using logistic regression with DINOv2 for feature extraction. 
@@ -111,8 +112,8 @@ Tools/Skills:
 - APIs
 
 
-#### Survey Data Analysis
-##### Nov 2023 - Dec 2023
+### Survey Data Analysis
+#### November 2023 - December 2023
 I completed this project as a final exam for one of my DS classes at Northwestern. 
 
 I worked with a large dataset of over 1000 student responses and extracted useful insights relating to student social behavior. Using various statistical methods and analysesl I validated my results and created visualizations to display my work. I worked with two other peers and collaborated using R. 
