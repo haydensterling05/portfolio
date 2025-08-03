@@ -31,15 +31,11 @@ Mathematics courses:
 
 ## Work Experience
 
-**Northrop Grumman**
-
-**Business Analyst Intern | _June 2025 - Present_**
+**Northrop Grumman | Business Analyst Intern | _June 2025 - Present_**
 - Analyzed cost data across 3 high-value government contracts, identifying variances and uncovering drivers of budget overruns while forecasting final project expenses using historical trends, and supporting financial stability and commitment to budget targets through improved cost control.
 - Conducted thorough audits of multiple government programs to ensure accurate cost structures and adherence to budget allocations, utilizing advanced MS Excel (queries, pivot tables, macros) and SAP skills to effectively support data-driven decision-making over the course of 3 months.
 
-**Taro AI**
-
-**Data Science Intern | _June 2024 - September 2024_**
+**Taro AI | Data Science Intern | _June 2024 - September 2024_**
 - Collaborated with startup founders to design a machine learning pipeline for tree species prediction across 17 classes, aligning model structure and evaluation strategies with product development goals to accelerate development of AI-driven computer vision tree inventory application.
 - Presented findings and model evaluations to leadership, translating complex technical results into business-focused recommendations to support product strategy, while balancing the model’s accuracy as well as its cost-effectiveness and scalability.
 
