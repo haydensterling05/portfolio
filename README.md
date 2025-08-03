@@ -1,4 +1,4 @@
-![Hayden_Sterling_headshot](assets/img/Headshot.JPG)
+<img src="assets/img/Headshot.JPG" alt="Hayden_Sterling_headshot" width="170" height="100">
 
 #### Languages: Python, SQL, R
 #### BI Tools: Tableau, Excel
