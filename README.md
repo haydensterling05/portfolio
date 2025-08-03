@@ -45,6 +45,7 @@ Mathematics courses:
 ## Projects
 
 ### Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
+#### June 2025 - Present
 This project stems from my personal interest in financial markets and quantitative trading. A common buy/sell signal in financial markets is the dual-moving average crossover. In this project, I designed a constrained optimization algorithm in Python using walk-forward backtesting and Optuna-based hyperparameter optimization to efficiently tune the values of the short-term and long-term MAs $(w_{short}, w_{long})$ while avoiding data leakage and overfitting. 
 
 I implemented a fully-customizable, user-friendly Streamlit dashboard to run the algorithm and visualize the results of the optimizer in a centralized online website. The tool supports both simple and exponentially weighted moving averages, allows for short-selling, and visualizes cumulative returns, trading signals, and window-specific performance metrics. It also introduces custom performance diagnostics, such as a Signal vs. Return Confusion Matrix, to assess the strategy’s ability to correctly predict market direction under both long and short positions.
