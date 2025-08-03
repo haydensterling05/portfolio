@@ -26,6 +26,10 @@ Mathematics courses:
 - STAT 228: Series and Multiple Integrals 
 - MATH 240: Linear Algebra
 
+Economics courses: 
+- ECON 202: Microeconomics
+- ECON 201: Macroeconomics (planned for Fall 2025)
+
 
 # Work Experience
 
