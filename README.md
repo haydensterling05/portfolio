@@ -1,5 +1,7 @@
-# Hayden Sterling
+![headshot](assets/img/headshot.png)
+
 #### Languages: Python, SQL, R
+#### BI Tools: Tableau, Excel
 
 ## Education
 B.A., Statistics & Data Science (_Double Major_)
