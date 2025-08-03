@@ -1,4 +1,4 @@
-![headshot](assets/img/headshot.png)
+![headshot](assets/img/headshot_square.png)
 
 #### Languages: Python, SQL, R
 #### BI Tools: Tableau, Excel
