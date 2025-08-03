@@ -66,6 +66,8 @@ Tools/Skills:
 - Financial data
 - Time series analysis
 
+<div class="vertical-line"></div>
+
 ### Product Delivery Prediction: STAT 303-3 Final Project
 #### March - June 2025
 
@@ -82,6 +84,8 @@ Tools/Skills:
 - Python (Scikit-learn, XGBoost, Pandas, Numpy, Seaborn)
 - Hyperparameter tuning
 - Stacking ML models
+
+<div class="vertical-line"></div>
 
 ### Geospatial Equity Data Analysis in Chicago Youth Programs
 #### November - December 2024 
@@ -102,7 +106,9 @@ Tools/Skills:
 - Data cleaning
 - Geospatial analysis & plotting (geopandas, folium)
 - Data visualization (matplotlib, seaborn)
-  
+
+<div class="vertical-line"></div>
+
 ### Species Classification Model
 #### June 2024 - September 2024
 This project was completed during my time working at TaroAI as a Data Science Intern. 
@@ -119,6 +125,8 @@ Tools/Skills:
 - Multi-class classification
 - Large language models
 - APIs
+
+<div class="vertical-line"></div>
 
 
 ### Survey Data Analysis
