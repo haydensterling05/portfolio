@@ -2,4 +2,4 @@ title: Hayden Sterling
 logo: /assets/img/headshot_square.jpg
 description: Statistics and Data Science student at Northwestern University
 show_downloads: true
-remote_theme: "jekyll/minima@1e8a445"
+theme: jekyll-theme-minimal
