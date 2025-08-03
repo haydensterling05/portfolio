@@ -1,4 +1,4 @@
-<img src="assets/img/Headshot.JPG" alt="Hayden_Sterling_headshot" width="255" height="340">
+<img src="assets/img/Headshot.JPG" alt="Hayden_Sterling_headshot" width="263" height="340">
 
 #### Languages: Python, SQL, R
 #### BI Tools: Tableau, Excel
