@@ -11,7 +11,7 @@ Northwestern University (_Class of 2027_)
 ### Relevant Coursework:
 Data Science courses:
 - STAT 303-1,-2,-3: Data Science with Python
-- STAT 362: Advanced Machine Learning
+- STAT 362: Advanced Machine Learning (planned for Fall 2025) 
 - STAT 305: Information Management
 - STAT 302: Data Visualization (planned for Fall 2025) 
 
