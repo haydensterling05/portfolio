@@ -10,14 +10,13 @@ Northwestern University (_Class of 2027_)
 
 ### Relevant Coursework:
 Data Science courses:
-- STAT 303-1,-2,-3: Data Science with Python - basic data analysis tools, bias/variance analysis, and ML algorithms such as regressions, tree-based methods, gradient boosted trees, stacking
-- STAT 305: Information Management - SQL and Python based database management, relational databases
-- STAT 201: Programming for Data Science - coding in Python and R, basic data structures and algorithms
+- STAT 303-1,-2,-3: Data Science with Python
+- STAT 362: Advanced Machine Learning
+- STAT 305: Information Management
 - STAT 302: Data Visualization (planned for Fall 2025) 
 
 Statistics courses:
-- STAT 320-1,-2,-3: Statistical Theories and Methods - probability, distributions, inference, likelihood ratio tests, regression, analysis of variance (ANOVA)
-- STAT 202: Statistics for Data Science - statistical inference and basic data visualization in R
+- STAT 320-1,-2,-3: Statistical Theories and Methods
 - STAT 350: Regression Analysis (planned for Fall 2025) 
 - STAT 348: Multivariate Analysis (planned for Fall 2025)
 
