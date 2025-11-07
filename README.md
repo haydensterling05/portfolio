@@ -11,14 +11,14 @@ Northwestern University (_Class of 2027_)
 ### Relevant Coursework:
 Data Science courses:
 - STAT 303-1,-2,-3: Data Science with Python
-- STAT 362: Advanced Machine Learning (planned for Fall 2025) 
+- STAT 362: Advanced Machine Learning (currently enrolled, Fall 2025) 
 - STAT 305: Information Management
-- STAT 302: Data Visualization (planned for Fall 2025) 
+- STAT 302: Data Visualization (currently enrolled, Fall 2025) 
 
 Statistics courses:
 - STAT 320-1,-2,-3: Statistical Theories and Methods
-- STAT 350: Regression Analysis (planned for Fall 2025) 
-- STAT 348: Multivariate Analysis (planned for Fall 2025)
+- STAT 350: Regression Analysis (currently enrolled, Fall 2025) 
+- STAT 348: Multivariate Analysis (currently enrolled, Fall 2025)
 
 Mathematics courses:
 - MATH 230: Multivariable Calculus (Calc III) 
@@ -27,7 +27,7 @@ Mathematics courses:
 
 Economics courses: 
 - ECON 202: Microeconomics
-- ECON 201: Macroeconomics (planned for Fall 2025)
+- ECON 201: Macroeconomics (currently enrolled, Fall 2025)
 
 
 # Work Experience
