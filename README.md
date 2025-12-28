@@ -13,7 +13,7 @@ Data Science courses:
 - STAT 362: Advanced Machine Learning 
 - STAT 303-1,-2,-3: Data Science with Python
 - STAT 305: Information Management
-- STAT 302: Data Visualization (currently enrolled, Fall 2025) 
+- STAT 302: Data Visualization
 
 Statistics courses:
 - STAT 320-1,-2,-3: Statistical Theories and Methods
