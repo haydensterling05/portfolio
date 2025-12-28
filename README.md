@@ -6,28 +6,28 @@ B.A., Statistics & Data Science (_Double Major_)
 
 Northwestern University (_Class of 2027_) 
 
-3.94/4.00
+Cumulative GPA: 3.95/4.00
 
 ### Relevant Coursework:
 Data Science courses:
+- STAT 362: Advanced Machine Learning 
 - STAT 303-1,-2,-3: Data Science with Python
-- STAT 362: Advanced Machine Learning (currently enrolled, Fall 2025) 
 - STAT 305: Information Management
 - STAT 302: Data Visualization (currently enrolled, Fall 2025) 
 
 Statistics courses:
 - STAT 320-1,-2,-3: Statistical Theories and Methods
-- STAT 350: Regression Analysis (currently enrolled, Fall 2025) 
-- STAT 348: Multivariate Analysis (currently enrolled, Fall 2025)
+- STAT 350: Regression Analysis 
+- STAT 348: Multivariate Analysis 
 
 Mathematics courses:
-- MATH 230: Multivariable Calculus (Calc III) 
+- MATH 230: Multivariable Calculus
 - STAT 228: Series and Multiple Integrals 
 - MATH 240: Linear Algebra
 
 Economics courses: 
 - ECON 202: Microeconomics
-- ECON 201: Macroeconomics (currently enrolled, Fall 2025)
+- ECON 201: Macroeconomics
 
 
 # Work Experience
