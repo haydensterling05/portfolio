@@ -2,7 +2,7 @@
 #### BI Tools: Tableau, Excel
 
 # Education
-B.A., Statistics & Data Science (_Double Major_)
+Bachelor's Degree, Statistics & Data Science (_Double Major_)
 
 Northwestern University (_Class of 2027_) 
 
