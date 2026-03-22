@@ -59,6 +59,7 @@ Economics courses:
 As part of a data visualization course at Northwestern, I built a dashboard exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
 
 [Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
+![Adaptive MA Strategy Dashboard Screenshot](assets/img/Covid_Dashboard_image.png)
 
 <div class="vertical-line"></div>
 
@@ -86,12 +87,11 @@ Tools/Skills:
 ## Product Delivery Prediction: STAT 303-3 Final Project
 #### March - June 2025
 
-ML binary classification project predicting whether a product delivery is on time and completed. Built a stacking model combining Logistic Regression, KNN, Random Forest, and XGBoost classifiers using a Logistic Regression metamodel to obtain 82.27% test accuracy. I performed exploratory data analysis and conducted feature engineering to improve performance by visualizing approximate-log-odds against each predictor (example shown below). 
+ML binary classification project predicting whether a product delivery is on time and complete. Built a stacking model combining Logistic Regression, KNN, Random Forest, and XGBoost classifiers using a Logistic Regression metamodel to obtain 82.27% test accuracy. I performed exploratory data analysis and conducted feature engineering to improve performance by visualizing approximate-log-odds against each predictor (example shown below). 
 
 ![Product Delivery Viz](assets/img/Product_Delivery_Viz.jpg)
-![Product Delivery Metrics](assets/img/Product_Delivery_Metrics.jpg)
 
-I experimented with different hyperparameter tuning frameworks such as Grid Searches, Random Searches, Bayesian searches, and Optuna for each of the base learners and the final metamodel. I built a unified pipeline using sklearn to write efficient and clear code that extracts and transforms the data for each base learner, and passes it through the model to obtain results. 
+I experimented with different hyperparameter tuning frameworks such as grid searches, random searches, Bayesian searches, and Optuna for each of the base learners and the final metamodel. I built a unified pipeline using sklearn to write efficient and clear code that extracts and transforms the data for each base learner, and passes it through the model to obtain results. 
 
 [Link: Product Delivery Prediction (Report + Python code)](STAT_303_3_Order_Delivery_Prediction/Order_Delivery_Prediction.html)
 
