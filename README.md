@@ -59,6 +59,7 @@ Economics courses:
 As part of a data visualization course at Northwestern, I built a dashboard in R exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
 
 [Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
+
 [Link to R code](STAT302_COVID_Impact_dashboard/app.R)
 
 ![Adaptive MA Strategy Dashboard Screenshot](assets/img/Covid_Dashboard_image.png)
