@@ -42,13 +42,25 @@ Economics courses:
 - Performed comparative analysis of 3 large language models (LLMs) for image-based tree species classification, assessing accuracy, precision, recall, and F1 metrics, while implementing cross-validation and hyperparameter tuning to enhance generalization performance and reduce model overfitting.
 - Presented quantitative findings to leadership, translating complex model evaluations into business recommendations to support product strategy.
 
+<div class="vertical-line"></div>
+
 # Certifications
 
 **DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_
 
 **DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_
 
+<div class="vertical-line"></div>
+
 # Projects
+
+## COVID-19 Impact Dashboard
+#### November 2025 - December 2025
+As part of a data visualization course at Northwestern, I built a dashboard exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
+
+[Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
+
+<div class="vertical-line"></div>
 
 ## Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
 #### June 2025 - Present
