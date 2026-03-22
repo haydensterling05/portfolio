@@ -59,6 +59,7 @@ Economics courses:
 As part of a data visualization course at Northwestern, I built a dashboard in R exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
 
 [Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
+[Link to R code](STAT302_COVID_Impact_dashboard/app.R)
 
 ![Adaptive MA Strategy Dashboard Screenshot](assets/img/Covid_Dashboard_image.png)
 
@@ -112,7 +113,6 @@ I completed this project with 3 of my peers during a Data Science Course at Nort
 We aimed to determine the relationship between levels of equity in Chicago youth programs for elementary, middle, and high school students and various socio-economic features. We used the My CHI My Future dataset, which includes over 200,000 programs and 40 features. The analysis includes statistical testing, geospatial data visualization, and exploratory data analysis (EDA) to support our findings. 
 
 [Link: Chicago Geospatial Equity Analysts (PDF Report)](Chicago_Programs_Equity_Project/STAT3031_Final_Report.pdf) 
-
 [Link: Chicago Geospatial Equity Analysts (Python Code)](Chicago_Programs_Equity_Project/Team_3_Project_Code.html)
 
 ![Geospatial Analysis Image 1](Chicago_Programs_Equity_Project/Geospatial_Analysis_img1.png)
