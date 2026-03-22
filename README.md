@@ -146,26 +146,6 @@ Tools/Skills:
 - Large language models
 - APIs
 
-<div class="vertical-line"></div>
-
-
-## Survey Data Analysis
-#### November 2023 - December 2023
-I completed this project as a final exam for one of my DS classes at Northwestern. 
-
-I worked with a large dataset of over 1000 student responses and extracted useful insights relating to student social behavior. Using various statistical methods and analysesl I validated my results and created visualizations to display my work. I worked with two other peers and collaborated using R. 
-
-[Link: Survey_Data_Analysis (Report + R code)](survey_data_analysis_project/survey_data_analysis.html)
-
-Tools/Skills:
-- R
-- Data analysis
-- Data wrangling
-- Data visualization
-- Regression analysis
-- Hypothesis testing
-- Exploratory data analysis (EDA)
-
 
 
 
