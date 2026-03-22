@@ -78,8 +78,6 @@ The algorithm has varying results on different securities. So far, I have achiev
 
 ![Adaptive MA Strategy Dashboard Screenshot](assets/img/2MA_Screenshot.png)
 
-This project is **in progress**, and I am currently working on generalizing the algorithm to several securities by continuing to refine its logic and running hundreds of trials to analyze its performance on different securities. I plan on identifying which factors associated with a security contribute to the algorithm's success or lack thereof in uncovering its signal and generating profit. I also plan on implementing other hyperparameters (e.g. the type of moving average, shorting logic, etc.) into the optimization to further improve performance. 
-
 Tools/Skills: 
 - Python (pandas, numpy, plotly)
 - Optuna
