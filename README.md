@@ -12,6 +12,7 @@ Cumulative GPA: 3.95/4.00
 Data Science courses:
 - STAT 362: Advanced Machine Learning 
 - STAT 303-1,-2,-3: Data Science with Python
+- STAT 304: Data Structures and Algorithms
 - STAT 305: Information Management
 - STAT 302: Data Visualization
 
@@ -24,10 +25,11 @@ Mathematics courses:
 - MATH 230: Multivariable Calculus
 - STAT 228: Series and Multiple Integrals 
 - MATH 240: Linear Algebra
+- MATH 366: Mathematical Models in Finance
 
 Economics courses: 
-- ECON 202: Microeconomics
-- ECON 201: Macroeconomics
+- ECON 310: Microeconomics
+- ECON 311: Macroeconomics
 
 
 # Work Experience
@@ -54,6 +56,17 @@ Economics courses:
 
 # Projects
 
+## Multivariate LSTM Forecasting of Sector ETFs with News Sentiment Features
+#### November 2025 - December 2025
+
+This project develops a deep learning model for forecasting next-day prices of nine U.S. sector ETFs using multivariate time-series modeling. A stacked LSTM architecture was trained on 60-day rolling windows of financial features, enabling the model to learn temporal dependencies and cross-sector relationships in market behavior. To improve predictive signal, the feature set was extended with NLP-derived variables computed from daily news headlines using VADER sentiment analysis, including average sentiment, sentiment volatility, and headline volume.
+
+The modeling pipeline includes rigorous regularization strategies—such as dropout, recurrent dropout, Huber loss optimization, and early stopping to reduce overfitting in the noisy financial data. Model performance was evaluated using RMSE and $R^2$ across all ETFs, with an average out-of-sample R2R^2R2 of 0.82. In addition to the primary LSTM model, alternative architectures incorporating attention mechanisms were implemented and benchmarked, along with ablation studies isolating the impact of sentiment features on predictive performance.
+
+[Link to repo here]([url](https://github.com/haydensterling05/stat362-fa25-final-hayden-sterling)). 
+
+<div class="vertical-line"></div>
+
 ## COVID-19 Impact Dashboard
 #### November 2025 - December 2025
 As part of a data visualization course at Northwestern, I built a dashboard in R exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
@@ -67,25 +80,6 @@ As part of a data visualization course at Northwestern, I built a dashboard in R
 Tools/Skills:
 - R (ggplot2, tidyverse)
 - Shiny dashboards
-
-<div class="vertical-line"></div>
-
-## Adaptive Moving Average Strategy Optimization Dashboard *(in progress)*
-#### June 2025 - Present
-This project stems from my personal interest in financial markets and quantitative trading. A common buy/sell signal in financial markets is the dual-moving average crossover. In this project, I designed a constrained optimization algorithm in Python using walk-forward backtesting and Optuna-based hyperparameter optimization to efficiently tune the values of the short-term and long-term MAs $(w_{short}, w_{long})$ while avoiding data leakage and overfitting. 
-
-I implemented a fully-customizable, user-friendly Streamlit dashboard to run the algorithm and visualize the results of the optimizer in a centralized online website. The tool supports both simple and exponentially weighted moving averages, allows for short-selling, and visualizes cumulative returns, trading signals, and window-specific performance metrics. It also introduces custom performance diagnostics, such as a Signal vs. Return Confusion Matrix, to assess the strategy’s ability to correctly predict market direction under both long and short positions.
-
-The algorithm has varying results on different securities. So far, I have achieved a **96% increase in Sharpe ratio** (risk-adjusted return) and an **80% increase in cumulative return** above the baseline buy-and-hold strategy on AAPL during the period of 01/01/2020 to the present day. However, its performance is much less optimistic on many other securities. 
-
-![Adaptive MA Strategy Dashboard Screenshot](assets/img/2MA_Screenshot.png)
-
-Tools/Skills: 
-- Python (pandas, numpy, plotly)
-- Optuna
-- Streamlit dashboards
-- Financial data
-- Time series analysis
 
 <div class="vertical-line"></div>
 
