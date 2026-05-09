@@ -2,10 +2,12 @@
 #### BI Tools: Tableau, Excel
 
 # Education
-Bachelor's Degree, Statistics & Data Science (_Double Major_)
-Kellogg Certificate Program for Undergraduates in Financial Economics
 
 Northwestern University (_Class of 2027_) 
+
+Bachelor's Degree, Statistics & Data Science (_Double Major_)
+
+Kellogg Certificate Program for Undergraduates in Financial Economics
 
 Cumulative GPA: 3.95/4.00
 
