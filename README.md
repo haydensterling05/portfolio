@@ -22,7 +22,8 @@ Data Science courses:
 Statistics courses:
 - STAT 320-1,-2,-3: Statistical Theories and Methods
 - STAT 350: Regression Analysis 
-- STAT 348: Multivariate Analysis 
+- STAT 348: Multivariate Analysis
+- STAT 354: Time Series Modeling
 
 Mathematics courses:
 - MATH 230: Multivariable Calculus
