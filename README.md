@@ -65,6 +65,9 @@ The modeling pipeline includes rigorous regularization strategies—such as drop
 
 [Link to repo here](https://github.com/haydensterling05/stat362-fa25-final-hayden-sterling)
 
+Tools/Skills: 
+- Python (Keras, Numpy, Pandas, Sklearn)
+
 <div class="vertical-line"></div>
 
 ## COVID-19 Impact Dashboard
