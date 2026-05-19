@@ -31,9 +31,10 @@ Mathematics courses:
 - MATH 240: Linear Algebra
 - MATH 366: Mathematical Models in Finance
 
-Economics courses: 
+Economics & Finance courses: 
 - ECON 310: Microeconomics
 - ECON 311: Macroeconomics
+- KELLG_FE 310: Finance I
 
 
 # Work Experience
