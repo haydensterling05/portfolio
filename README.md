@@ -61,6 +61,15 @@ Economics & Finance courses:
 
 # Projects
 
+## A Canonical Correlation Analysis of Global Economic Production and Expenditure
+### December 2025
+
+This project, completed during a statistics course at NU, applied advanced multivariate statistical methods to analyze how countries around the world produce and spend their GDP. Using a dataset of 208 countries and 12 macroeconomic indicators, I conducted a canonical correlation analysis in R to identify statistically significant relationships between economic production sectors and expenditure patterns. The analysis revealed two meaningful global economic relationships: one connecting post-industrial, service-oriented economies with greater trade dependence, and another linking construction-heavy economies with higher levels of investment-driven growth. Beyond the statistical modeling itself, the project emphasized economic interpretation, hypothesis testing, and empirical reasoning, integrating multivariate statistics with macroeconomic theory to better understand structural differences across national economies.
+
+[Link to pdf here](CCA_Economic_PE/CCA_Global_Economic_Production_Expenditure.pdf)
+
+<div class="vertical-line"></div>
+
 ## Multivariate LSTM Forecasting of Sector ETFs with News Sentiment Features
 #### November 2025 - December 2025
 
