@@ -1,5 +1,4 @@
 #### Languages: Python, SQL, R
-#### BI Tools: Tableau, Excel
 
 # Education
 
@@ -59,16 +58,7 @@ Economics & Finance courses:
 
 <div class="vertical-line"></div>
 
-# Projects
-
-## A Canonical Correlation Analysis of Global Economic Production and Expenditure
-### December 2025
-
-This project, completed during a statistics course at NU, applied advanced multivariate statistical methods to analyze how countries around the world produce and spend their GDP. Using a dataset of 208 countries and 12 macroeconomic indicators, I conducted a canonical correlation analysis in R to identify statistically significant relationships between economic production sectors and expenditure patterns. The analysis revealed two meaningful global economic relationships: one connecting post-industrial, service-oriented economies with greater trade dependence, and another linking construction-heavy economies with higher levels of investment-driven growth. Beyond the statistical modeling itself, the project emphasized economic interpretation, hypothesis testing, and empirical reasoning, integrating multivariate statistics with macroeconomic theory to better understand structural differences across national economies.
-
-[Link to pdf here](CCA_Economic_PE/CCA_Global_Economic_Production_Expenditure.pdf)
-
-<div class="vertical-line"></div>
+# Machine Learning Projects
 
 ## Multivariate LSTM Forecasting of Sector ETFs with News Sentiment Features
 #### November 2025 - December 2025
@@ -81,22 +71,6 @@ The modeling pipeline includes rigorous regularization strategies—such as drop
 
 Tools/Skills: 
 - Python (Keras, Numpy, Pandas, Sklearn)
-
-<div class="vertical-line"></div>
-
-## COVID-19 Impact Dashboard
-#### November 2025 - December 2025
-As part of a data visualization course at Northwestern, I built a dashboard in R exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
-
-[Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
-
-[Link to R code](STAT302_COVID_Impact_dashboard/app.R)
-
-![Adaptive MA Strategy Dashboard Screenshot](assets/img/Covid_Dashboard_image.png)
-
-Tools/Skills:
-- R (ggplot2, tidyverse)
-- Shiny dashboards
 
 <div class="vertical-line"></div>
 
@@ -115,6 +89,33 @@ Tools/Skills:
 - Python (Scikit-learn, XGBoost, Pandas, Numpy, Seaborn)
 - Hyperparameter tuning
 - Stacking ML models
+
+<div class="vertical-line"></div>
+
+## Species Classification Model
+#### June 2024 - September 2024
+This project was completed during my time working at TaroAI as a Data Science Intern. 
+
+My goal for this project was to develop a multiclass classification machine learning model in Python to successfully predict the species of trees based on ground-level images. I used various approaches to solve this computer vision predicions problem and worked across various different datasets provided to me by the company. I achieved ~85% accuracy in the most successful approach, using logistic regression with DINOv2 for feature extraction. 
+
+Tools/Skills:
+- Python (python, numpy)
+- DINOv2 (for feature extraction)
+- Computer Vision
+- Model evaluation
+- Multi-class classification
+
+<div class="vertical-line"></div>
+
+
+# Data Analysis Projects
+
+## A Canonical Correlation Analysis of Global Economic Production and Expenditure
+### December 2025
+
+This project, completed during a statistics course at NU, applied advanced multivariate statistical methods to analyze how countries around the world produce and spend their GDP. Using a dataset of 208 countries and 12 macroeconomic indicators, I conducted a canonical correlation analysis in R to identify statistically significant relationships between economic production sectors and expenditure patterns. The analysis revealed two meaningful global economic relationships: one connecting post-industrial, service-oriented economies with greater trade dependence, and another linking construction-heavy economies with higher levels of investment-driven growth. Beyond the statistical modeling itself, the project emphasized economic interpretation, hypothesis testing, and empirical reasoning, integrating multivariate statistics with macroeconomic theory to better understand structural differences across national economies.
+
+[Link to pdf here](CCA_Economic_PE/CCA_Global_Economic_Production_Expenditure.pdf)
 
 <div class="vertical-line"></div>
 
@@ -139,22 +140,19 @@ Tools/Skills:
 
 <div class="vertical-line"></div>
 
-## Species Classification Model
-#### June 2024 - September 2024
-This project was completed during my time working at TaroAI as a Data Science Intern. 
+## COVID-19 Impact Dashboard
+#### November 2025 - December 2025
+As part of a data visualization course at Northwestern, I built a dashboard in R exploring the spread of the COVID-19 pandemic in the two years following the initial outbreak, comparing its impact on human life (number of cases and deaths) across different geographies. It also examines correlations between COVID's impact and various economic variables, uncovering an important story about under-reporting of cases and deaths in poorer countries. 
 
-My goal for this project was to develop a multiclass classification machine learning model in Python to successfully predict the species of trees based on ground-level images. I used various approaches to solve this computer vision predicions problem and worked across various different datasets provided to me by the company. I achieved ~85% accuracy in the most successful approach, using logistic regression with DINOv2 for feature extraction. 
+[Link to dashboard](https://bz8fea-hayden-sterling.shinyapps.io/Sterling_Hayden_Final_Project/)
+
+[Link to R code](STAT302_COVID_Impact_dashboard/app.R)
+
+![Adaptive MA Strategy Dashboard Screenshot](assets/img/Covid_Dashboard_image.png)
 
 Tools/Skills:
-- Python (python, numpy)
-- Feature extraction (DINOv2)
-- Machine Learning
-- Computer Vision
-- Data cleaning
-- Model evaluation
-- Multi-class classification
-- Large language models
-- APIs
+- R (ggplot2, tidyverse)
+- Shiny dashboards
 
 
 
