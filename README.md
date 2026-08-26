@@ -65,7 +65,7 @@ Economics & Finance courses:
 
 This project develops a deep learning model for forecasting next-day prices of nine U.S. sector ETFs using multivariate time-series modeling. A stacked LSTM architecture was trained on 60-day rolling windows of financial features, enabling the model to learn temporal dependencies and cross-sector relationships in market behavior. To improve predictive signal, the feature set was extended with NLP-derived variables computed from daily news headlines using VADER sentiment analysis, including average sentiment, sentiment volatility, and headline volume.
 
-The modeling pipeline includes rigorous regularization strategies—such as dropout, recurrent dropout, Huber loss optimization, and early stopping to reduce overfitting in the noisy financial data. Model performance was evaluated using RMSE and $R^2$ across all ETFs, with an average out-of-sample R2R^2R2 of 0.82. In addition to the primary LSTM model, alternative architectures incorporating attention mechanisms were implemented and benchmarked, along with ablation studies isolating the impact of sentiment features on predictive performance.
+The modeling pipeline includes rigorous regularization strategies—such as dropout, recurrent dropout, Huber loss optimization, and early stopping to reduce overfitting in the noisy financial data. Model performance was evaluated using RMSE and $R^2$ across all ETFs, with an average out-of-sample $R^2$ of 0.82. In addition to the primary LSTM model, alternative architectures incorporating attention mechanisms were implemented and benchmarked, along with ablation studies isolating the impact of sentiment features on predictive performance.
 
 [Link to repo here](https://github.com/haydensterling05/stat362-fa25-final-hayden-sterling)
 
