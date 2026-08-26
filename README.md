@@ -88,7 +88,7 @@ ML binary classification project predicting whether a product delivery is on tim
 
 I experimented with different hyperparameter tuning frameworks such as grid searches, random searches, Bayesian searches, and Optuna for each of the base learners and the final metamodel. I built a unified pipeline using sklearn to write efficient and clear code that extracts and transforms the data for each base learner, and passes it through the model to obtain results. 
 
-[Link: Product Delivery Prediction (Report + Python code)](STAT_303_3_Order_Delivery_Prediction/Order_Delivery_Prediction.html)
+[Link: Product Delivery Prediction (Report + Python code)](STAT_303_3_Order_Delivery_Prediction/Order_Delivery_Prediction.pdf)
 
 Tools/Skills:
 - Python (Scikit-learn, XGBoost, Pandas, Numpy, Seaborn)
