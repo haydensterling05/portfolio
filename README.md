@@ -12,9 +12,9 @@ Cumulative GPA: 3.95/4.00
 
 ### Relevant Coursework:
 Data Science courses:
-- STAT 362: Advanced Machine Learning 
-- STAT 303-1,-2,-3: Data Science with Python
+- STAT 362: Advanced Machine Learning
 - STAT 304: Data Structures and Algorithms
+- STAT 303-1,-2,-3: Data Science with Python
 - STAT 305: Information Management
 - STAT 302: Data Visualization
 
@@ -38,12 +38,17 @@ Economics & Finance courses:
 
 # Work Experience
 
-**Northrop Grumman | Business Analyst Intern | _June 2025 - Present_**
+**The Jordan Company | Data Analyst Intern | _June 2026 - August 2026_**
+- Conducted financial and quantitative data analysis to support strategic operational initiatives across 4 portfolio companies in the power, industrials, healthcare, and consumer verticals, synthesizing complex datasets to generate insights and inform business and investment decision-making.
+- Developed and evaluated 2 Claude-based AI workflows to automate and standardize both recurring due diligence analysis and executive summary generation, incorporating user-provided data inputs in varied formats and reusable scripts to produce structured deliverables for executive leadership.
+- Evaluated LLM capabilities for enterprise dashboard development by building 2 end-to-end dashboard prototypes with AI-generated frontend and backend components and authoring an implementation guide outlining appropriate use cases and limitations for future users. 
+
+**Northrop Grumman | Business Analyst Intern | _June 2025 - August 2025_**
 - Analyzed cost data across 4 government programs valued at $100M+ to identify cyclical trends, key cost drivers, and root causes of cost overruns.
 - Forecasted program-level expenditures with run-rate models, using historical data to predict future variances and improve financial planning.
 - Developed and tested an automated internal reporting tool using VBA macros to clean and reformat cost data in Excel, streamlining report distribution among program team members and reducing program managers’ processing time by 70%, enabling faster and more informed decision making.
 
-**Taro AI | Data Science Intern | _June 2024 - September 2024_**
+**Taro AI | Data Scientist Intern | _June 2024 - September 2024_**
 - Engineered a multi-class tree species classification machine learning pipeline in Python, integrating Meta’s DINOv2 vision transformer for robust feature extraction and applying logistic regression to achieve 85% accuracy across multiple geographically diverse tree image datasets.
 - Performed comparative analysis of 3 large language models (LLMs) for image-based tree species classification, assessing accuracy, precision, recall, and F1 metrics, while implementing cross-validation and hyperparameter tuning to enhance generalization performance and reduce model overfitting.
 - Presented quantitative findings to leadership, translating complex model evaluations into business recommendations to support product strategy.
@@ -52,9 +57,9 @@ Economics & Finance courses:
 
 # Certifications
 
-**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_
+**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/ZGE5DBT0VE6U)
 
-**DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_
+**DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/420U3B3MGZP1)
 
 <div class="vertical-line"></div>
 
