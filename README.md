@@ -57,9 +57,9 @@ Economics & Finance courses:
 
 # Certifications
 
-**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/ZGE5DBT0VE6U)
+**DeepLearning.AI's Neural Networks and Deep Learning Coursera Certificate** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/420U3B3MGZP1)
 
-**DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/420U3B3MGZP1)
+**DeepLearning.AI's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** | _July 2025_ | [Credential here](https://www.coursera.org/account/accomplishments/verify/ZGE5DBT0VE6U)
 
 <div class="vertical-line"></div>
 
