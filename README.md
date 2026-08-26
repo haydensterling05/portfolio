@@ -8,7 +8,7 @@ Bachelor's Degree, Statistics & Data Science (_Double Major_)
 
 Kellogg Certificate Program for Undergraduates in Financial Economics
 
-Cumulative GPA: 3.95/4.00
+Cumulative GPA: 3.96/4.00
 
 ### Relevant Coursework:
 Data Science courses:
